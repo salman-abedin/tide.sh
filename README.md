@@ -1,6 +1,6 @@
 ![](preview.gif)
 
-# tide: A minimal Transmission CLI client
+# tide: A minimal Transmission CLI client written in shellscript
 
 tide is a minimal TUI for the BitTorrent client [Transmission](https://transmissionbt.com/).
 
