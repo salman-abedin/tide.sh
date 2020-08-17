@@ -22,7 +22,7 @@ tide is a ~100 line POSIX shellscript and a love letter to [torque](https://gith
 ## Installation
 
 ```sh
-git clone https://github.com/salman-abedin/tide.git && cd tide && sudo make install
+git clone https://github.com/salman-abedin/tide.sh.git && cd tide.sh && sudo make install
 ```
 
 ## Uninstallation
